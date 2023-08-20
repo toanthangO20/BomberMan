@@ -1,0 +1,15 @@
+
+ 28.1.2020		15:8:14
+	Player 2 wins!
+	 -Player 2 planted 4 bomb(s)
+	 -Player 1 planted 3 bomb(s)
+
+ 28.1.2020		15:8:23
+	Player 2 wins!
+	 -Player 2 planted 1 bomb(s)
+	 -Player 1 planted 1 bomb(s)
+
+ 28.1.2020		15:9:22
+	Player 2 wins!
+	 -Player 2 planted 2 bomb(s)
+	 -Player 1 planted 2 bomb(s)
